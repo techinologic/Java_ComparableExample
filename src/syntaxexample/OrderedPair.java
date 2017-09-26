@@ -1,3 +1,5 @@
+package syntaxexample;
+
 /**
  * Created by Paolo T. Inocencion on 09/25/17.
  */

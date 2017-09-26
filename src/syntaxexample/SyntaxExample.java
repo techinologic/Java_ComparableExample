@@ -1,3 +1,5 @@
+package syntaxexample;
+
 import java.util.ArrayList;
 
 /**
